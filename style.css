@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+#section1 {
+    background:linear-gradient( #00fcf4 0%, #00fc26 100%);
+}
+
+#section2 {
+    background-color: aquamarine;
+}
+
+hr {
+    width : 500px;
+    height : 6px;
+    background-color : black;
+}
+
+img {
+    border-radius: 100%;
+}
+
+h1 {
+    font-family: 'Texturina', serif;
+}
