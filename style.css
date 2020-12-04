@@ -92,4 +92,7 @@ h1 {
     padding-bottom: 10px;
 }
 
+.article:hover {
+    color : crimson;
+}
 
