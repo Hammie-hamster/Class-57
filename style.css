@@ -44,6 +44,8 @@ h1 {
 
 .links:hover {
     background-color: blue;
+    font-size: 40px;
+    text-shadow: 5px 5px crimson;
 }
 
 .links {
@@ -85,7 +87,7 @@ h1 {
 
 #section6 {
     text-align: center;
-    background-color : cornsilk;
+    background-color : chartreuse;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 10px;
@@ -96,3 +98,15 @@ h1 {
     color : crimson;
 }
 
+.contact_1 h3 {
+    display: inline;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.line {
+    height : 6px;
+    background-color : #000;
+    width : 70px;
+    margin : 8px auto;
+}
